@@ -1,0 +1,4 @@
+#Sat Mar 23 15:50:40 AZT 2019
+base.0=C\:\\Users\\dmitr\\AndroidStudioProjects\\BookReview\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
